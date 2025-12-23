@@ -1,2 +1,2 @@
-# Dijital-G-nl-k
+# Dijital-Gunluk
 Kişilerin kendi hesaplarını oluşturup her gün için not alabildiği ve eski notlarını düzenleyip güncelleyebildiği bi dijital günlük
